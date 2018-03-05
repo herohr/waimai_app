@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffae00</color>
+    <color name="colorPrimaryDark">#ffae00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorToolbar">#ffae00</color>
+    <color name="colorBottom">#ffffff</color>
+    <color name="colorTitle">#ffae00</color>
+    <color name="grey">#d9d9d9</color>
+
+</resources>
+

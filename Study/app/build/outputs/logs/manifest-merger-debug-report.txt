@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/deae3f479c4f472abb156d292dc8d21a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/22d3e277939f7f2154e14fb81b24be47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24c5d1009d3cb8522ba8f354baf148d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/93954b2e221bf5c51cd02ff2b1464a0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0e812ef7bf2d86867b1c0e1912df3224/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/da21b021fbf8e85fdf0ea8396cc328c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9dd820662aa9ea9a8fef1c2ef72102c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b290a7f2d6430a74d89704c0ac52f15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3e32cccdb129dfd8d1437772228c0636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/9f0ea6dc2c455955775ea5c296df02dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e7e60dce6b496298c5501c818a252555/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f1bafc7fa3d347a983ab91fb3256e14c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b8ca5e1e428d0c5d8cd6291d3caaa8c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/herohr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/542f3776b8f5f7236645c55bb86e6ed1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:9:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24c5d1009d3cb8522ba8f354baf148d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24c5d1009d3cb8522ba8f354baf148d7/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.herodoc.study.loginAct
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:17:9-46
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:17:19-43
+activity#com.example.herodoc.study.registerAct1
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.example.herodoc.study.registerAct2
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.herodoc.study.registerAct3
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.example.herodoc.study.indexAct
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:21:19-43
+activity#com.example.herodoc.study.welcomeAct1
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:22:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.herodoc.study.indexAct1
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:29:9-47
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:29:19-44
+activity#com.example.herodoc.study.vendorAct
+ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:30:9-33:56
+	android:label
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:32:13-58
+	android:theme
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml:31:13-38
+uses-sdk
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/deae3f479c4f472abb156d292dc8d21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/deae3f479c4f472abb156d292dc8d21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/22d3e277939f7f2154e14fb81b24be47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/22d3e277939f7f2154e14fb81b24be47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24c5d1009d3cb8522ba8f354baf148d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/24c5d1009d3cb8522ba8f354baf148d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/93954b2e221bf5c51cd02ff2b1464a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/93954b2e221bf5c51cd02ff2b1464a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0e812ef7bf2d86867b1c0e1912df3224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0e812ef7bf2d86867b1c0e1912df3224/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/da21b021fbf8e85fdf0ea8396cc328c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/da21b021fbf8e85fdf0ea8396cc328c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9dd820662aa9ea9a8fef1c2ef72102c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9dd820662aa9ea9a8fef1c2ef72102c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b290a7f2d6430a74d89704c0ac52f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b290a7f2d6430a74d89704c0ac52f15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3e32cccdb129dfd8d1437772228c0636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/3e32cccdb129dfd8d1437772228c0636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/9f0ea6dc2c455955775ea5c296df02dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/9f0ea6dc2c455955775ea5c296df02dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e7e60dce6b496298c5501c818a252555/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/e7e60dce6b496298c5501c818a252555/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f1bafc7fa3d347a983ab91fb3256e14c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f1bafc7fa3d347a983ab91fb3256e14c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b8ca5e1e428d0c5d8cd6291d3caaa8c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/herohr/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b8ca5e1e428d0c5d8cd6291d3caaa8c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/herohr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/542f3776b8f5f7236645c55bb86e6ed1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/herohr/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/542f3776b8f5f7236645c55bb86e6ed1/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		ADDED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/herohr/Programing/android/Study/app/src/main/AndroidManifest.xml
